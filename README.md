@@ -1,4 +1,4 @@
-# Mi Tienda de Ropa
+# ShopOmix
 
 ## Descripción
 Este es un proyecto de tienda en línea que muestra una variedad de prendas de vestir. La aplicación está diseñada con un enfoque en la estética y la funcionalidad, proporcionando a los usuarios una experiencia de compra intuitiva.
